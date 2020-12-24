@@ -23,7 +23,7 @@ double TestObject::Divide(){
 
 int main(){
     int a,b;
-
+    int c;
     std::cout << "Enter a : ";
     std::cin >> a;
     std::cout << "Enter b : ";
